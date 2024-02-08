@@ -1,0 +1,39 @@
+h1{
+    margin-left: 45%;
+    margin-top: 40PX;
+    border: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 150PX;
+
+
+}
+.div1{
+    margin-bottom: 20PX;
+    margin-left: 10%;
+    
+}
+.div2{
+    margin-bottom: 30PX;
+    margin-left: 160PX;
+    
+}
+.div3{
+    margin-bottom: 30PX;
+    margin-left: 10%;
+    
+}
+.global{
+    margin-top: 50PX;
+    margin-left: 30%;
+
+}
+.div4{
+    margin-top: 15PX;
+    margin-left: 37%;
+
+}
+body{
+    background-color: plum;
+}
